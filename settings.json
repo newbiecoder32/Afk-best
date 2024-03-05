@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "messiisthegoat32",
+    "password": "",
+    "type": ""
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "pika.host",
     "port": 25565,
     "version": "1.19.3"
   },
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "12345678"
+      "enabled": true,
+      "password": "subtosknisgood"
     },
 
     "anti-afk": {
